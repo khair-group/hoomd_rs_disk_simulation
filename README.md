@@ -13,3 +13,6 @@ HOOMD code to simulate a collection of RS disks
     timeseries of the size of the largest cluster and number of clusters.
 
 4. "ret_clust_stats.py" returns time-averaged values for the mean and variance in cluster size.
+
+Appropriate citation for HOOMD: J. A. Anderson, J. Glaser, and S. C. Glotzer. HOOMD-blue: A Python package for high-performance molecular dynamics and hard particle Monte Carlo simulations. Computational Materials Science 173: 109363, Feb 2020. 10.1016/j.commatsci.2019.109363
+
